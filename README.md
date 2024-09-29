@@ -33,7 +33,7 @@ Feel free to reach out on my social media:
 
 2. Navigate to the project directory:
     ```bash
-    cd ATM  
+    cd ATM-Program  
 3. Run the executable:
     ```bash
     .\atm.exe 
